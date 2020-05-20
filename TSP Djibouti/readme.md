@@ -1,6 +1,6 @@
 # Optimizing the Travel Salesman for Djibouti
 
-<img src = 'http://www.math.uwaterloo.ca/tsp/world/djpoints.gif'>
+<img src = 'http://www.math.uwaterloo.ca/tsp/world/djmap.jpg'>
 
 ## Requirements :
 
@@ -10,8 +10,7 @@ In order to execute the optimization you will need:
 2.  Numpy
 3.  Pandas
 4.  Matplotlib
-5.  deap : 1.3.1
-6.  satsp : 0.9
+5.  satsp : 0.9
 
 ## Instructions :
 
