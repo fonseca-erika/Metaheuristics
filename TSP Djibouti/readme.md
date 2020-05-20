@@ -1,4 +1,6 @@
-# Optimizing the Shifted Ackley Function
+# Optimizing the Travel Salesman for Djibouti
+
+<img src = 'http://www.math.uwaterloo.ca/tsp/world/djpoints.gif'>
 
 ## Requirements :
 
